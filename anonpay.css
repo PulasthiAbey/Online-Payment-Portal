@@ -1,0 +1,8 @@
+.card{
+	height: auto;
+	margin-top: 3%;
+	margin-bottom: auto;
+	width: 450px;
+	/*background-color: rgba(0,0,0,0.5) !important;*/
+	overflow-y: scroll;
+}
